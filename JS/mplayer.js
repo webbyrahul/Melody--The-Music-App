@@ -58,11 +58,11 @@ let musicall = [
         link: "./musicname/Hasi_-_Hamari_Adhuri_Kahani__Raw_Acoustic_Cover_(256k).mp3"
     },
     {
-        id: "music-7",
-        name: "Hass Hass",
-        artist: "Diljit Dosanjh",
-        img: "./images/hass_hass_song.jpg",
-        link: "./musicname/hass_hass_song.mp3"
+       id: "music-7",
+        name: "Dhun",
+        artist: "Arijit Singh",
+        img: "./images/dhun.jpeg",
+        link: "./musicname/Dhun Saiyaara 320 Kbps.mp3"
     },
     {
         id: "music-8",
